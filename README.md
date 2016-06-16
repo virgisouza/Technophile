@@ -16,7 +16,7 @@ npm install
 ### Run Tests
 
 ```
-mocha -w
+npm test
 ```
 
 ## Create Classes
