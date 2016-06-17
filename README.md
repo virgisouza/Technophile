@@ -21,6 +21,8 @@ npm test
 
 ## Create Classes
 
+When inheriting methods from a parent prototype be sure to use the `extend` function.
+
 ### Phone
 
 The constructor should accept a single argument `phoneNumber`, and set a public variable `phoneNumber` to the value of that constructor argument.
